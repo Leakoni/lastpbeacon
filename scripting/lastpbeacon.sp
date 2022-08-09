@@ -32,7 +32,7 @@ public Plugin myinfo =
 	author = "Audite",
 	description = "HNS Easyblock, if there is last terrorist then activate a beacon on client.",
 	version = "1.0.5",
-	url = "https://github.com/github.com/Leakoni/lastpbeacon"
+	url = "https://github.com/Leakoni/lastpbeacon"
 };
 
 public void OnAllPluginsLoaded(){
