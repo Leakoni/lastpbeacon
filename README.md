@@ -1,7 +1,7 @@
 # lastpbeacon
 
 
-![Downloads](https://img.shields.io/github/downloads/github.com/Leakoni/lastpbeacon/total?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/github.com/Leakoni/lastpbeacon?style=flat-square) ![Open issues](https://img.shields.io/github/issues/github.com/Leakoni/lastpbeacon?style=flat-square) ![Closed issues](https://img.shields.io/github/issues-closed/github.com/Leakoni/lastpbeacon?style=flat-square) ![Size](https://img.shields.io/github/repo-size/github.com/Leakoni/lastpbeacon?style=flat-square) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/github.com/Leakoni/lastpbeacon/Compile%20and%20release?style=flat-square)
+[![Compile and release](https://github.com/Leakoni/lastpbeacon/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Leakoni/lastpbeacon/actions/workflows/main.yml)
 
 ## Description ##
 ATM only in Swedish language.
